@@ -7,3 +7,5 @@
 # تنبيه
 فيه مشاكل ان اي رسائل انقليزيه ضمن التعريب تتعرب حتى لو شخص ارسلها
 ![Image](https://github.com/user-attachments/assets/0c224099-c930-4183-b0a4-0c134bfef040)
+
+https://github.com/9at00/Arabic-Discord-betterdiscord-/releases/tag/discord
