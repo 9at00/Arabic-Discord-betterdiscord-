@@ -1,2 +1,2 @@
-# Arabic Discord BetterDiscord Pluginل
+# Arabic Discord BetterDiscord Plugin
 !تعريب الدسكورد بالكامل!
